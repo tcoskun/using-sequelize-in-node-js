@@ -1,0 +1,1 @@
+# using-sequelize-in-node-js
