@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sequelize-sample",
+    "password": "******",
+    "database": "sequelize-sample",
+    "host": "sql2.freemysqlhosting.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "sequelize-sample",
+    "password": "******",
+    "database": "sequelize-sample",
+    "host": "sql2.freemysqlhosting.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sequelize-sample",
+    "password": "******",
+    "database": "sequelize-sample",
+    "host": "sql2.freemysqlhosting.net",
+    "dialect": "mysql"
+  }
+}
